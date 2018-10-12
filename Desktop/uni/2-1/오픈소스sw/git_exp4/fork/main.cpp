@@ -15,7 +15,7 @@ int main()
 		cout << endl;
 	}
 	cout << endl;
-	cout << "场" << endl;
+	cout << "备备窜 场" << endl;
 
 
 
