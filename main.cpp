@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+
 	for (int i = 1; i <= 9; i++)
 	{
 
@@ -15,7 +16,7 @@ int main()
 		cout << endl;
 	}
 	cout << endl;
-	cout << "9*9±¸±¸´Ü³¡" << endl;
+	cout << "9*9Â±Â¸Â±Â¸Â´ÃœÂ³Â¡" << endl;
 
 
 
